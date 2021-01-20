@@ -1,0 +1,10 @@
+site_name: MkDocs Notes
+theme:
+  name: material
+
+nav:
+  - Home: index.md
+  - 配置: 配置.md
+  - 语法: 语法.md
+
+  
